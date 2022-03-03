@@ -1,0 +1,90 @@
+
+explosionAtlas.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+explosion-0
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-10
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-11
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-2
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-6
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-3
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-4
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-5
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-7
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-1
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-8
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+explosion-9
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

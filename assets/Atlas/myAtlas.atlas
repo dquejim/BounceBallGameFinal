@@ -1,0 +1,48 @@
+
+myAtlas.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 804, 194
+  size: 650, 800
+  orig: 650, 800
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 1456, 736
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gameOver
+  rotate: false
+  xy: 2, 167
+  size: 800, 827
+  orig: 800, 827
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 1456, 866
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+plane2
+  rotate: false
+  xy: 321, 37
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 2, 2
+  size: 317, 163
+  orig: 317, 163
+  offset: 0, 0
+  index: -1
